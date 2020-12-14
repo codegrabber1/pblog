@@ -1,12 +1,17 @@
 .sidebar {
 	width: 300px;
 	height: 100vh;
-	background-color: #fff;
+	background-color: $background__color_primary;
 	position: fixed;
+	box-shadow: 5px 0 15px rgba(#000000, .25);
 	top: 0;
 	left: 0;
 	z-index: $z-index__sidebar-1000;
-
-
-
+}
+.sidebar__header{
+	background-color: $background__color_secondary;
+	height: 180px;
+	img{
+		object-fit: cover;
+	}
 }

@@ -1,0 +1,768 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"h",
+				"hidden\toverflow"
+			],
+			[
+				"b",
+				"border-box\tbox-sizing"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"s",
+				"sidebar.scss"
+			],
+			[
+				"r",
+				"reset.scss"
+			],
+			[
+				"fl",
+				"flex-wrap\tproperty"
+			],
+			[
+				"font",
+				"font-weight\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"a",
+				"auto\twidth"
+			],
+			[
+				"MA",
+				"max-width\tproperty"
+			],
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"min-",
+				"min-width\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"ob_",
+				"ob_get_clean"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"mysql",
+				"mysql_query"
+			],
+			[
+				"view_",
+				"view_head"
+			],
+			[
+				"get",
+				"getAttribute"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"tabl",
+				"table-row\tdisplay"
+			],
+			[
+				"i",
+				"list_icon.png\tw:16 h:15"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"bo",
+				"border-radius\tproperty"
+			],
+			[
+				"list-sty",
+				"list-style-position\tproperty"
+			],
+			[
+				"c",
+				"circle\tlist-style"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"tx",
+				"text-align\tproperty"
+			],
+			[
+				"bg",
+				"bg+\tbackground: ${1:#fff} url(${2}) ${3:0} ${4:0} ${5:no-repeat};"
+			],
+			[
+				"png",
+				"search_icon.png\tw:13 h:13"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"g",
+				"grid-gap\tproperty"
+			],
+			[
+				"gr",
+				"grid-column\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"tea",
+				"te-a\ttext-emphasis: after;"
+			],
+			[
+				"for",
+				"for\tfor (…) {…} (Improved Native For-Loop)"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"m",
+				"min\tmin()"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"ena",
+				"entries_display"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"ce",
+				"center\tjustify-content"
+			],
+			[
+				"jus",
+				"justify-content\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"o",
+				"opacity\topacity()"
+			],
+			[
+				"op",
+				"opacify\topacify()"
+			],
+			[
+				"abs",
+				"absolute\tposition"
+			],
+			[
+				"re",
+				"relative\tposition"
+			],
+			[
+				"align",
+				"align-content\tproperty"
+			],
+			[
+				"st",
+				"stretch\talign-self"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"align-",
+				"align-content\tproperty"
+			],
+			[
+				"is_",
+				"is_array"
+			],
+			[
+				"array_key",
+				"array_key_exists"
+			],
+			[
+				"ob",
+				"ob_start"
+			],
+			[
+				"ob_get_",
+				"ob_get_contents"
+			],
+			[
+				"com",
+				"compact"
+			],
+			[
+				"ob_get",
+				"ob_get_flush"
+			],
+			[
+				"obget",
+				"ob_get_contents"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"getT",
+				"gettype"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"spl",
+				"spl_autoload_register"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"ini_",
+				"ini_get"
+			],
+			[
+				"include",
+				"get_include_path"
+			],
+			[
+				"libs",
+				"Libs"
+			],
+			[
+				"class",
+				"classess"
+			],
+			[
+				"cla",
+				"classes"
+			],
+			[
+				"spl_",
+				"spl_autoload_register"
+			],
+			[
+				"ser",
+				"services"
+			],
+			[
+				"array_p",
+				"array_push"
+			],
+			[
+				"create",
+				"createForm"
+			],
+			[
+				"tab",
+				"table"
+			],
+			[
+				"user",
+				"userName"
+			],
+			[
+				"use",
+				"userName"
+			],
+			[
+				"conn",
+				"connectDB"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"Blog",
+				"BlogCategory"
+			],
+			[
+				"method",
+				"method\tAttr"
+			],
+			[
+				"ret",
+				"ret\treturn"
+			],
+			[
+				"Blo",
+				"BlogCategory"
+			],
+			[
+				"cre",
+				"createdAt"
+			],
+			[
+				"time",
+				"timestamps"
+			],
+			[
+				"met",
+				"method\tAttr"
+			],
+			[
+				"po",
+				"post"
+			],
+			[
+				"fro",
+				"form"
+			],
+			[
+				"text",
+				"textarea"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ip",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"PHP Code Sniffer: ",
+				"PHP Code Sniffer: Switch coding standard"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 200.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/pblog"
+	],
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/pblog/src/assets/scss/blocks/sidebar.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/pblog/src/partials/header.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/pblog/src/assets/scss/blocks/container.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/pblog/src/assets/scss/blocks/main.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/pblog/src/assets/scss/blocks/page.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/pblog/src/assets/scss/style.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/pblog/src/partials/sidebar.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/pblog/.gitignore",
+		"/Applications/XAMPP/xamppfiles/htdocs/pblog/dist/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/pblog/gulpfile.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/pblog/gulp4-project/gulpfile.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/makecodework.github.io/_site/news/2020/09/10/welcome-to-next-post-copy-3.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/makecodework.github.io/_includes/blog-excerpt.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/makecodework.github.io/_includes/detail.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/makecodework.github.io/_posts/special-products/2020-10-31-sp-product.md",
+		"/Applications/XAMPP/xamppfiles/htdocs/makecodework.github.io/_data/special-products.yaml",
+		"/Applications/XAMPP/xamppfiles/htdocs/makecodework.github.io/_posts/blog/2019-12-27-welcome-to-adisipising.markdown",
+		"/Applications/XAMPP/xamppfiles/htdocs/makecodework.github.io/_posts/blog/2019-12-27-welcome-to-next-post.markdown",
+		"/Applications/XAMPP/xamppfiles/htdocs/makecodework.github.io/assets/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/francedance.wp/wp-content/themes/francedance/framework/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/francedance.wp/wp-content/themes/francedance/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/makecodework.github.io/product-grid-sidebar-left.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/makecodework.github.io/_includes/sidebar_products.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/makecodework.github.io/assets/js/theme.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/makecodework.github.io/_includes/nav.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/makecodework.github.io/_includes/breadcrumbs.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/makecodework.github.io/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/makecodework.github.io/_includes/slider.html",
+		"/Volumes/Transcend/Programming/Templates/shops/Furnitica-Minimalist-Furniture/product-grid-sidebar-left.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/makecodework.github.io/products.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/makecodework.github.io/paint.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/makecodework.github.io/portfolio.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/makecodework.github.io/blog.html",
+		"/Volumes/Transcend/Programming/Templates/shops/Furnitica-Minimalist-Furniture/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/makecodework.github.io/_layouts/default.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/makecodework.github.io/_layouts/products.html",
+		"/Volumes/Transcend/Programming/Templates/shops/Sabujcha-eCommerce-Template/assets/css/style.css",
+		"/Volumes/Transcend/Programming/Templates/shops/Sabujcha-eCommerce-Template/shop.html",
+		"/Volumes/Transcend/Programming/Templates/shops/Furnitica-Minimalist-Furniture/js/theme.js",
+		"/Volumes/Transcend/Programming/Templates/shops/Sabujcha-eCommerce-Template/assets/js/main.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/makecodework.github.io/assets/js/main.js",
+		"/Volumes/Transcend/Programming/Templates/shops/Sabujcha-eCommerce-Template/assets/js/plugins.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/makecodework.github.io/_site/assets/css/1_.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/makecodework.github.io/_layouts/portfolio.html",
+		"/Users/beon/Desktop/ritka/project/news.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/phpless/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/phpless/Car.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/retouch.lar/public/retouch/css/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/westsport.loc/wp-content/themes/westsport/style.css",
+		"/Users/beon/Downloads/500x250 px logo_green.svg",
+		"/Applications/XAMPP/xamppfiles/htdocs/chystota2.0/wp-content/themes/chystota/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/thforest.ht/src/assets/js/main.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/thforest.ht/dist/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/thforest.ht/src/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/thforest.ht/src/assets/sass/style.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/thforest.ht/src/assets/sass/_vars.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/thforest.ht/envato-skeleton/src/index.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/thforest.ht/envato-skeleton/src/assets/sass/style.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/thforest.ht/src/assets/sass/_colors.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/thforest.ht/gulpfile.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/thforest.ht/package.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/thforest.ht/npm-shrinkwrap.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/thforest.ht/bower.json",
+		"/Applications/XAMPP/xamppfiles/htdocs/thforest.ht/envato-skeleton/gulpfile.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/tasks.lv/Tasks/src/task19/Main.java",
+		"/Applications/XAMPP/xamppfiles/htdocs/java.proj/Finance/src/personalFinance/PersonalFinance.java",
+		"/Applications/XAMPP/xamppfiles/htdocs/retouch.lar/app/Http/Controllers/Admin/Category/CategoryController.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/retouch.lar/resources/views/retouch/admin/portfolio-edit.blade.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/retouch.lar/app/Http/Requests/CategoryCreateRequest.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/thforest.ht/package-lock.json",
+		"/Users/beon/Lessons/Java_lessons/MySQL/7/selections.sql",
+		"/Applications/XAMPP/xamppfiles/htdocs/tasks.lv/Tasks/src/task14/Main.java",
+		"/Applications/XAMPP/xamppfiles/htdocs/simplephp.loc/views/js/script.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/simplephp.loc/.htaccess",
+		"/Users/beon/Lessons/Java_lessons/html.DONE/lesson3/task3/task3/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/simplephp.loc/arr.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/retouch.lar/app/Http/Controllers/Admin/BaseController.php",
+		"/Users/beon/Lessons/Java_lessons/MySQL/5/task1.sql",
+		"/Applications/XAMPP/xamppfiles/htdocs/redbike.com/index.php",
+		"/Users/beon/Desktop/site/lesson 12/index.html",
+		"/Users/beon/Desktop/site/lesson 12/style.css",
+		"/Users/beon/Downloads/site/dz/styles/style.css",
+		"/Users/beon/Downloads/site/dz/styles/styles768.css",
+		"/Users/beon/Downloads/35a2fd3cdf060f00977e4d80fcf16ae4/js/js.js",
+		"/Users/beon/Downloads/site/lesson 12/style.css",
+		"/Users/beon/Lessons/Java_lessons/html/lesson12/slider 8/script.js",
+		"/Users/beon/Lessons/Java_lessons/html/lesson10/task10/libs/style.css",
+		"/Users/beon/Lessons/Java_lessons/html/lesson11/task11/style.css",
+		"/Users/beon/Lessons/Java_lessons/html/lesson11/snow.svg",
+		"/Users/beon/Lessons/Java_lessons/javascript/6/proto.js",
+		"/Users/beon/Lessons/Java_lessons/html/lesson10/task9/libs/media.css",
+		"/Users/beon/Lessons/Java_lessons/html/lesson9/9bf1994aa98379173804dc161a717c37/responsive-example/style.css",
+		"/Users/beon/Lessons/Java_lessons/html/lesson8/task8/index.html",
+		"/Users/beon/Lessons/Java_lessons/html/lesson8/task8/style.css",
+		"/Users/beon/Lessons/Java_lessons/html/lesson8/task8/js/script.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/wpPlugings/geotarg/city.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/wptest.wp/wp-content/themes/test20/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wptest.wp/wp-content/themes/test20/template-parts/content.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wptest.wp/wp-content/themes/twentytwenty/template-parts/content.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wptest.wp/wp-content/themes/test20/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wptest.wp/wp-content/themes/twentytwenty/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/wptest.wp/wp-content/themes/twentytwenty/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wptest.wp/wp-content/themes/twentytwenty/functions.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wptest.wp/wp-content/themes/twentytwenty/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wptest.wp/wp-content/themes/test20/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wptest.wp/wp-content/themes/test20/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wptest.wp/wp-content/themes/twentytwenty/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wptest.wp/wp-content/themes/test20/style.css",
+		"/Applications/XAMPP/xamppfiles/htdocs/wptest.wp/wp-content/plugins/google-facebook-rating/setting.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wptest.wp/wp-content/plugins/mcw-geotarg/uninstall.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wptest.wp/wp-content/plugins/google-facebook-rating/setting-option.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wptest.wp/wp-content/plugins/google-facebook-rating/assets/js/scripts.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/wptest.wp/wp-content/plugins/google-facebook-rating/ratings_widget.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wptest.wp/wp-content/plugins/mcw-geotarg/geotarg.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wptest.wp/wp-config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wptest.wp/wp-content/plugins/mcw-geotarg/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/wptest.wp/wp-content/plugins/google-facebook-rating/uninstall.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/Site/Chystota/new_pict/fb.svg",
+		"/Applications/XAMPP/xamppfiles/htdocs/Site/Chystota/new_pict/ФБ/facebook.svg",
+		"/Applications/XAMPP/xamppfiles/htdocs/Site/Chystota/new_pict/telegram.svg",
+		"/Users/beon/Lessons/Java_lessons/MySQL/4/task/book.sql",
+		"/Users/beon/Downloads/4ab9553c201eb48d493430a2384cb548.sql",
+		"/Applications/XAMPP/xamppfiles/htdocs/Site/Chystota/new_pict/youtube (1).svg",
+		"/Users/beon/Lessons/Java_lessons/javascript/5/clouser.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/Site/Chystota/new_pict/facebook.svg",
+		"/Users/beon/Lessons/Java_lessons/MySQL/3/task/alter_engine.sql",
+		"/Users/beon/Lessons/Java_lessons/html/lessons4/task4/style.css",
+		"/Users/beon/Lessons/Java_lessons/html/lessons4/task4/index.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "/Applications/XAMPP/xamppfiles/htdocs/pblog",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 72.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.Debugger":
+	{
+		"height": 156.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pblog.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"wel",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"web",
+				"webpack.mix.js"
+			],
+			[
+				"tai",
+				"tailwind.config.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 289.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

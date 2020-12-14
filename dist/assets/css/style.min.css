@@ -336,7 +336,13 @@ body {
   background-color: #181818;
   font-size: 1.4rem;
   font-family: system-ui,-apple-system,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Liberation Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
-  color: #ffffff; }
+  color: #ffffff;
+  line-height: 1.5; }
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto; }
 
 /* from blocks */
 .page {
@@ -354,11 +360,18 @@ body {
 .sidebar {
   width: 300px;
   height: 100vh;
-  background-color: #fff;
+  background-color: #202020;
   position: fixed;
+  box-shadow: 5px 0 15px rgba(0, 0, 0, 0.25);
   top: 0;
   left: 0;
   z-index: 1000; }
+
+.sidebar__header {
+  background-color: #121212;
+  height: 180px; }
+  .sidebar__header img {
+    object-fit: cover; }
 
 .container {
   max-width: 70rem;
@@ -368,3 +381,44 @@ body {
 .main {
   padding-top: 10rem;
   padding-left: 300px; }
+
+.sidebar__content {
+  padding: 0 2rem; }
+
+.profile__avatar {
+  width: 10rem;
+  height: 10rem;
+  border: 2px solid #ffffff;
+  box-shadow: 0 7px 20px rgba(0, 0, 0, 0.25);
+  border-radius: 50%;
+  margin: 0 auto 2rem; }
+
+.profile__name {
+  font-size: 1.8rem;
+  text-align: center; }
+
+.profile__prof {
+  margin-bottom: 2rem;
+  font-size: 1.4rem;
+  font-weight: 300;
+  color: #dedede;
+  text-align: center; }
+
+.profile__text {
+  font-size: 1.2rem;
+  text-align: center;
+  border-top: 1px solid #1c1c1c;
+  border-bottom: 1px solid #1c1c1c;
+  padding: 3rem 0;
+  margin: 3rem 0; }
+
+.soc {
+  display: flex;
+  justify-content: center; }
+
+.social__item {
+  margin: 0 .75rem; }
+
+.btn {
+  display: inline-block;
+  vertical-align: top; }
