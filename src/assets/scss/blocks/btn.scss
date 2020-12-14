@@ -1,5 +1,35 @@
 .btn{
 	display: inline-block;
 	vertical-align: top;
-	// TODO: finished
+	padding: 1.1em 2.1em;
+	
+	font-size: 1.2rem;
+	font-weight: 500;
+	font-family: inherit;
+	color: $maim__color_text;
+	background: $background__color_secondary;
+	border: none;
+	border-radius: 3em;
+	line-height: 1.1;
+	text-decoration: none;
+	cursor: pointer;
+
+	transition: background .2c linear;
+
+	&--red{
+		background: $sidebar__btn-red;
+		box-shadow: 0 7px 17px -10px rgba($sidebar__btn-red, .3);
+
+		&:hover {
+			background: darken($sidebar__btn-red, 5%);
+		}
+	}
+	&--blue {
+		background: $sidebar__btn-blue;
+		box-shadow: 0 7px 17px -10px rgba($sidebar__btn-blue, .3);
+
+		&:hover {
+			background: darken($sidebar__btn-blue, 5%);
+		}
+	}
 } 

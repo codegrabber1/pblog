@@ -15,3 +15,14 @@
 		object-fit: cover;
 	}
 }
+.sidebar__content{
+	margin-top: -5rem;
+}
+.sidebar__content,
+.sidebar__footer{
+	padding: 0 2rem;
+}
+.sidebar__footer{
+	display: flex;
+	justify-content: space-between;
+}
