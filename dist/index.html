@@ -16,7 +16,35 @@
 </head>
 <body>
 	<div class="page">
-		<header class="header">header</header>
+		<header class="header">
+			<div class="header__left">
+				<nav class="nav">
+					<ul class="nav__list">
+						<li><a href="#">Home</a></li>
+						<li class="nav__item"><a class="has-subnav" href="#">Articles</a>
+							<ul class="subnav">
+								<li><a href="#">Web Development</a></li>
+								<li><a href="">Web Marketing</a></li>
+								<li><a href="">Video creation</a></li>
+							</ul>
+						</li>
+						<li><a href="#">About</a></li>
+						<li><a href="#">Advertisement</a></li>
+					</ul>
+				</nav>
+			</div>
+			<div class="header__right">
+				<nav class="nav">
+					<ul class="nav__list">
+						<li><a href="#">Profile</a></li>
+						
+					</ul>
+				</nav>
+				<form class="search" action="/" method="post">
+					<input class="s_input" type="text" placeholder="Search">
+				</form>
+			</div>
+		</header>
 
 		<aside class="sidebar">
 			<div class="sidebar__header">

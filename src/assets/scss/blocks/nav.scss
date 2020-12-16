@@ -1,0 +1,48 @@
+.nav__list{
+	display: flex;
+}
+.nav__list .nav__item {
+	position: relative;
+	&:hover {
+		background-color: $sidebar__btn-blue;
+	}
+	&:hover {
+		> .subnav {
+			display: block;
+		} 
+	}	
+}
+.nav__list li a {
+	display: block;
+	font-size: 1.1rem;
+	text-transform: uppercase;
+	text-decoration: none;
+	padding: 1.35rem;
+	line-height: 1.2;
+	color: $maim__color_text;
+
+	transition: background-color .2c linear;
+	
+	&:hover {
+		background-color: $sidebar__btn-blue;
+	}
+
+	&.has-subnav{
+		position: relative;
+		padding-right: 3.5rem;
+
+		&:after{
+			content: "";
+			display: block;
+			margin-top: 2px;
+			border-style: solid;
+			border-width: 6px 5px 0 5px;
+			border-color: #ffffff transparent transparent transparent;
+			position: absolute;
+			top: 50%;
+			right: 1.35rem;
+			transform: translateY(-50%);
+
+		}
+	}
+} 
