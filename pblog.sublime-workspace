@@ -4,6 +4,54 @@
 		"selected_items":
 		[
 			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"n",
+				"none\ttext-transform"
+			],
+			[
+				"tra",
+				"transparent\tbackground-color"
+			],
+			[
+				"rg",
+				"rgba\trgba()"
+			],
+			[
+				"s",
+				"search.scss"
+			],
+			[
+				"fl",
+				"flex-end\tjustify-content"
+			],
+			[
+				"bgc",
+				"background-color\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"in",
+				"inherit\tfont-family"
+			],
+			[
+				"t",
+				"top\tvertical-align"
+			],
+			[
+				"va",
+				"vertical-align\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
 				"h",
 				"hidden\toverflow"
 			],
@@ -12,20 +60,8 @@
 				"border-box\tbox-sizing"
 			],
 			[
-				"box",
-				"box-sizing\tproperty"
-			],
-			[
-				"s",
-				"sidebar.scss"
-			],
-			[
 				"r",
 				"reset.scss"
-			],
-			[
-				"fl",
-				"flex-wrap\tproperty"
 			],
 			[
 				"font",
@@ -86,10 +122,6 @@
 			[
 				"i",
 				"list_icon.png\tw:16 h:15"
-			],
-			[
-				"in",
-				"inline-block\tdisplay"
 			],
 			[
 				"bo",
@@ -230,10 +262,6 @@
 			[
 				"space",
 				"space-between\tjustify-content"
-			],
-			[
-				"bor",
-				"border-radius\tproperty"
 			],
 			[
 				"align-",
@@ -408,9 +436,83 @@
 	"buffers":
 	[
 		{
+			"file": "src/partials/sidebar.html",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 1231,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/partials/header.html",
+			"settings":
+			{
+				"buffer_size": 760,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/assets/scss/blocks/btn.scss",
+			"settings":
+			{
+				"buffer_size": 687,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/assets/scss/style.scss",
+			"settings":
+			{
+				"buffer_size": 779,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/assets/scss/_vars.scss",
+			"settings":
+			{
+				"buffer_size": 347,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/assets/scss/blocks/header.scss",
+			"settings":
+			{
+				"buffer_size": 350,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/assets/scss/blocks/subnave.scss",
+			"settings":
+			{
+				"buffer_size": 433,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/assets/scss/blocks/search.scss",
+			"settings":
+			{
+				"buffer_size": 342,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/assets/scss/blocks/nav.scss",
+			"settings":
+			{
+				"buffer_size": 801,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -467,11 +569,19 @@
 	},
 	"expanded_folders":
 	[
-		"/Applications/XAMPP/xamppfiles/htdocs/pblog"
+		"/Applications/XAMPP/xamppfiles/htdocs/pblog",
+		"/Applications/XAMPP/xamppfiles/htdocs/pblog/src",
+		"/Applications/XAMPP/xamppfiles/htdocs/pblog/src/assets",
+		"/Applications/XAMPP/xamppfiles/htdocs/pblog/src/assets/images",
+		"/Applications/XAMPP/xamppfiles/htdocs/pblog/src/assets/scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/pblog/src/assets/scss/blocks",
+		"/Applications/XAMPP/xamppfiles/htdocs/pblog/src/partials"
 	],
 	"file_history":
 	[
 		"/Applications/XAMPP/xamppfiles/htdocs/pblog/src/assets/scss/blocks/sidebar.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/pblog/src/assets/scss/blocks/profile.scss",
+		"/Applications/XAMPP/xamppfiles/htdocs/pblog/src/assets/scss/blocks/social.scss",
 		"/Applications/XAMPP/xamppfiles/htdocs/pblog/src/partials/header.html",
 		"/Applications/XAMPP/xamppfiles/htdocs/pblog/src/assets/scss/blocks/container.scss",
 		"/Applications/XAMPP/xamppfiles/htdocs/pblog/src/assets/scss/blocks/main.scss",
@@ -596,9 +706,7 @@
 		"/Applications/XAMPP/xamppfiles/htdocs/Site/Chystota/new_pict/youtube (1).svg",
 		"/Users/beon/Lessons/Java_lessons/javascript/5/clouser.js",
 		"/Applications/XAMPP/xamppfiles/htdocs/Site/Chystota/new_pict/facebook.svg",
-		"/Users/beon/Lessons/Java_lessons/MySQL/3/task/alter_engine.sql",
-		"/Users/beon/Lessons/Java_lessons/html/lessons4/task4/style.css",
-		"/Users/beon/Lessons/Java_lessons/html/lessons4/task4/index.html"
+		"/Users/beon/Lessons/Java_lessons/MySQL/3/task/alter_engine.sql"
 	],
 	"find":
 	{
@@ -633,35 +741,271 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "src/partials/sidebar.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 1231,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								864,
+								864
 							]
 						],
 						"settings":
 						{
-							"default_dir": "/Applications/XAMPP/xamppfiles/htdocs/pblog",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/partials/header.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 760,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								487,
+								487
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/assets/scss/blocks/btn.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 687,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								308,
+								342
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/assets/scss/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 779,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								125,
+								125
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 4,
+					"file": "src/assets/scss/_vars.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 347,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								165,
+								148
+							]
+						],
+						"settings":
+						{
+							"color_scheme": "Packages/User/Color Highlighter/themes/Material-Theme-Darker.tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/assets/scss/blocks/header.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 350,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								96
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/assets/scss/blocks/subnave.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 433,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								428,
+								379
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 118.5,
+						"zoom_level": 1.0
+					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/assets/scss/blocks/search.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 342,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								340,
+								340
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/assets/scss/blocks/nav.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								358,
+								398
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Sass/Syntaxes/SCSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -669,7 +1013,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 27.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -684,6 +1028,12 @@
 				0,
 				1,
 				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
 			]
 		],
 		"cols":
@@ -694,6 +1044,7 @@
 		"rows":
 		[
 			0.0,
+			0.513644935345,
 			1.0
 		]
 	},
@@ -710,7 +1061,7 @@
 	"project": "pblog.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
