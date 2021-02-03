@@ -33,25 +33,32 @@
 	display: block;
 	width: 4.4rem;
 	height: 4.4rem;
+	border: none;
 	border-radius: 50%;
-	transition: background .2s linear;	
+	transition: background .2s linear;
+	cursor: pointer;	
 		
 }
 .add_post__file{
+	
 	background: $background__post_file url("../images/photo.svg") center no-repeat;
+	// &:hover {
+	// 	background: darken($background__post_file, 5%);
+	// }
 
 	input {
 		display: none;
 	}
-	&:hover {
-		background: darken($background__post_file, 5%);
-	}
+	
 }
 
 .add-post__send {
 	margin-left: 1.5rem;
-	background-color: $sidebar__btn-blue;
+	background-color: $sidebar__btn-blue ;
 	&:hover {
 		background: darken($sidebar__btn-blue, 5%);
+	}
+	img {
+		margin: 0 auto;
 	}
 }
